@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+
+    <pyqgis_plugin name="EstHub Satiladu viewer" version="1.2.4">
+        <description>Avab värsked ESTHub Satilao WMS kihid koos navigeerimisvõimalusega. Võimaldab QGIS kaardivaate alusel tehtud päringu põhjal sirvida pilvituid kaardilehti.</description> [cite: 1]
+        <about>Lisab eraldi tööriistariba.</about> [cite: 2]
+        <version>1.2.4</version> [cite: 2]
+        <qgis_minimum_version>3.0</qgis_minimum_version> [cite: 1]
+        <qgis_maximum_version>4.9</qgis_maximum_version> [cite: 1]
+        <download_url>https://drive.google.com/uc?export=download&amp;id=15TjLrLDa1CxiSKbSowAEWpLyIjjGwYKS</download_url>
+        <author_name>Urmo Saar</author_name> [cite: 2]
+        <file_name>EstHub_Satiladu_WMS_1.2.4.zip</file_name>
+    </pyqgis_plugin>
+
+    <pyqgis_plugin name="Mavic 3E Projector" version="0.9.9">
+        <description>Projects vector layers onto raw DJI 3E/4T photos and draws the camera FOV on the 2D map. Add pins directly onto photos and display them on 2d map.</description> [cite: 3, 4]
+        <about>Reads DJI XMP EXIF data and uses OpenCV to map 3D vector features onto the 2D image plane, and reverse ray-casts the camera footprint.</about> [cite: 5]
+        <version>0.9.9</version> [cite: 5]
+        <qgis_minimum_version>3.10</qgis_minimum_version> [cite: 3]
+        <qgis_maximum_version>4.99</qgis_maximum_version> [cite: 3]
+        <download_url>https://drive.google.com/uc?export=download&amp;id=12mEQnLtHIUhBoW1xGOW03usFHHLc3EwI</download_url>
+        <author_name>Urmo Saar</author_name> [cite: 5]
+        <file_name>MavicProjector_0.9.9.zip</file_name>
+    </pyqgis_plugin>
+
+</plugins>
