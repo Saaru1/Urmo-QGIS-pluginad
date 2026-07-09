@@ -38,10 +38,10 @@
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS TAB Exporter -->
-    <pyqgis_plugin name="QGIS TAB Exporter" version="1.03">
+    <pyqgis_plugin name="QGIS TAB Exporter" version="1.04">
         <description>QGIS shift-free TAB exporter/Ekspordi QGISst TAB formaati ilma geomeetria nihketa</description>
         <about>Prevents coordinate shifting by enforcing strict bounds and Decimal snapping.</about>
-        <version>1.03</version>
+        <version>1.04</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/ExtractTabExporter.zip</download_url>
