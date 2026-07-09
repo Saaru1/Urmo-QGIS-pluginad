@@ -8,7 +8,7 @@
         <version>1.2.4</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.9</qgis_maximum_version>
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/EstHub_Satiladu_WMS_1.2.4.zip</download_url>
+        <download_url>https://keskkonnaministeerium-my.sharepoint.com/:u:/r/personal/urmo_saar_keskkonnaamet_ee/Documents/Urmo%20QGIS%20pluginad/EstHub_Satiladu_WMS_1.2.4.zip?csf=1&amp;web=1&amp;e=pmujv0&amp;download=1</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>EstHub_Satiladu_WMS_1.2.4.zip</file_name>
     </pyqgis_plugin>
@@ -20,7 +20,7 @@
         <version>0.9.9</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/MavicProjector_0.9.9.zip</download_url>
+        <download_url>https://keskkonnaministeerium-my.sharepoint.com/:u:/r/personal/urmo_saar_keskkonnaamet_ee/Documents/Urmo%20QGIS%20pluginad/MavicProjector_0.9.9.zip?csf=1&amp;web=1&amp;e=TKGC8a&amp;download=1</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>MavicProjector_0.9.9.zip</file_name>
     </pyqgis_plugin>
@@ -32,10 +32,8 @@
         <version>1.10</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <!-- Updated at approx. row 32 -->
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_target_vertex_1.10.zip</download_url>
+        <download_url>https://keskkonnaministeerium-my.sharepoint.com/:u:/r/personal/urmo_saar_keskkonnaamet_ee/Documents/Urmo%20QGIS%20pluginad/qgis_target_vertex_1.10.zip?csf=1&amp;web=1&amp;e=pUAah2&amp;download=1</download_url>
         <author_name>Urmo Saar</author_name>
-        <!-- Updated at approx. row 34 -->
         <file_name>qgis_target_vertex_1.10.zip</file_name>
     </pyqgis_plugin>
 
@@ -46,10 +44,8 @@
         <version>1.02</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <!-- Updated at approx. row 43 -->
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/QGISTabExporter_1.0.2.zip</download_url>
+        <download_url>https://keskkonnaministeerium-my.sharepoint.com/:u:/r/personal/urmo_saar_keskkonnaamet_ee/Documents/Urmo%20QGIS%20pluginad/QGISTabExporter_1.0.2.zip?csf=1&amp;web=1&amp;e=AIRqTS&amp;download=1</download_url>
         <author_name>Urmo Saar</author_name>
-        <!-- Updated at approx. row 45 -->
         <file_name>QGISTabExporter_1.0.2.zip</file_name>
     </pyqgis_plugin>
 
@@ -60,10 +56,8 @@
         <version>1.05</version>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <!-- Updated at approx. row 54 (spaces replaced with %20) -->
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/natura_registry_check_1.05_isekas%20versioon.zip</download_url>
+        <download_url>https://keskkonnaministeerium-my.sharepoint.com/:u:/r/personal/urmo_saar_keskkonnaamet_ee/Documents/Urmo%20QGIS%20pluginad/natura_registry_check_1.05_isekas%20versioon.zip?csf=1&amp;web=1&amp;e=aVI7Kb&amp;download=1</download_url>
         <author_name>Urmo Saar</author_name>
-        <!-- Updated at approx. row 56 -->
         <file_name>natura_registry_check_1.05_isekas versioon.zip</file_name>
     </pyqgis_plugin>
 
@@ -74,10 +68,8 @@
         <version>0.9.8.5</version>
         <qgis_minimum_version>3.16</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <!-- Updated at approx. row 65 (spaces replaced with %20) -->
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/QGIS%20pivot_0.9.8.5.zip</download_url>
+        <download_url>https://keskkonnaministeerium-my.sharepoint.com/:u:/r/personal/urmo_saar_keskkonnaamet_ee/Documents/Urmo%20QGIS%20pluginad/QGIS%20pivot_0.9.8.5.zip?csf=1&amp;web=1&amp;e=J8QhJy&amp;download=1</download_url>
         <author_name>Urmo Saar</author_name>
-        <!-- Updated at approx. row 67 -->
         <file_name>QGIS pivot_0.9.8.5.zip</file_name>
     </pyqgis_plugin>
 
