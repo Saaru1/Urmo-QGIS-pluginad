@@ -7,8 +7,8 @@
         <about>Lisab eraldi tööriistariba.</about>
         <version>1.2.4</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <qgis_maximum_version>4.9</qgis_maximum_version>
-        <download_url>file:///Z:/P%C3%A4randniitude%20osakond/Kasulik%20info/%C3%9Cleminek%20QGISle/x_LISA/QGIS%20pluginad/EstHub_Satiladu_WMS_1.2.4.zip</download_url>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/EstHub_Satiladu_WMS_1.2.4.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>EstHub_Satiladu_WMS_1.2.4.zip</file_name>
     </pyqgis_plugin>
@@ -20,7 +20,7 @@
         <version>0.9.9</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/P%C3%A4randniitude%20osakond/Kasulik%20info/%C3%9Cleminek%20QGISle/x_LISA/QGIS%20pluginad/MavicProjector_0.9.9.zip</download_url>
+        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/MavicProjector_0.9.9.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>MavicProjector_0.9.9.zip</file_name>
     </pyqgis_plugin>
@@ -32,7 +32,7 @@
         <version>1.10</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/P%C3%A4randniitude%20osakond/Kasulik%20info/%C3%9Cleminek%20QGISle/x_LISA/QGIS%20pluginad/qgis_target_vertex_1.10.zip</download_url>
+        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/qgis_target_vertex_1.10.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>qgis_target_vertex_1.10.zip</file_name>
     </pyqgis_plugin>
@@ -44,7 +44,7 @@
         <version>1.02</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/P%C3%A4randniitude%20osakond/Kasulik%20info/%C3%9Cleminek%20QGISle/x_LISA/QGIS%20pluginad/QGISTabExporter_1.0.2.zip</download_url>
+        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/QGISTabExporter_1.0.2.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>QGISTabExporter_1.0.2.zip</file_name>
     </pyqgis_plugin>
@@ -56,7 +56,7 @@
         <version>1.05</version>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/P%C3%A4randniitude%20osakond/Kasulik%20info/%C3%9Cleminek%20QGISle/x_LISA/QGIS%20pluginad/natura_registry_check_1.05_isekas%20versioon.zip</download_url>
+        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/natura_registry_check_1.05_isekas versioon.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>natura_registry_check_1.05_isekas versioon.zip</file_name>
     </pyqgis_plugin>
@@ -68,7 +68,7 @@
         <version>0.9.8.5</version>
         <qgis_minimum_version>3.16</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/P%C3%A4randniitude%20osakond/Kasulik%20info/%C3%9Cleminek%20QGISle/x_LISA/QGIS%20pluginad/QGIS%20pivot_0.9.8.5.zip</download_url>
+        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/QGIS pivot_0.9.8.5.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>QGIS pivot_0.9.8.5.zip</file_name>
     </pyqgis_plugin>
