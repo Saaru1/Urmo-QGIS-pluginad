@@ -8,7 +8,7 @@
         <version>1.2.4</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.9</qgis_maximum_version>
-        <download_url>https://drive.google.com/uc?export=download&amp;id=15TjLrLDa1CxiSKbSowAEWpLyIjjGwYKS</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/EstHub_Satiladu_WMS_1.2.4.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>EstHub_Satiladu_WMS_1.2.4.zip</file_name>
     </pyqgis_plugin>
@@ -20,7 +20,7 @@
         <version>0.9.9</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://drive.google.com/uc?export=download&amp;id=12mEQnLtHIUhBoW1xGOW03usFHHLc3EwI</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/MavicProjector_0.9.9.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>MavicProjector_0.9.9.zip</file_name>
     </pyqgis_plugin>
@@ -32,7 +32,7 @@
         <version>1.10</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://drive.google.com/uc?export=download&amp;id=1yp-hk-EAzmluSL9h5LAG-ZG7ydXIWDek</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_target.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>qgis_target.zip</file_name>
     </pyqgis_plugin>
@@ -44,7 +44,7 @@
         <version>1.02</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://drive.google.com/uc?export=download&amp;id=1kmR-DcdoYbZwsuqKfyj_pabtmt_S2OhR</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_tab_exporter.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>qgis_tab_exporter.zip</file_name>
     </pyqgis_plugin>
@@ -56,7 +56,7 @@
         <version>1.05</version>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://drive.google.com/uc?export=download&amp;id=1hxNbNVtuQVu6u2qXM92njK_eJ_40mk0V</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_natura_topology_check.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>qgis_natura_topology_check.zip</file_name>
     </pyqgis_plugin>
@@ -68,7 +68,7 @@
         <version>0.9.8.5</version>
         <qgis_minimum_version>3.16</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://drive.google.com/uc?export=download&amp;id=1VL3J7IOU0-4xuWZls-353OSk9Y5Zf6GL</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_pivot_dashboard.zip</download_url>
         <author_name>Urmo Saar</author_name>
         <file_name>qgis_pivot_dashboard.zip</file_name>
     </pyqgis_plugin>
