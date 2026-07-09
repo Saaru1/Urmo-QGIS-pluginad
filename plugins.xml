@@ -8,9 +8,9 @@
         <version>1.2.4</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/EstHub_Satiladu_WMS_1.2.4.zip</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/SatiladuWMS.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>EstHub_Satiladu_WMS_1.2.4.zip</file_name>
+        <file_name>SatiladuWMS.zip</file_name>
     </pyqgis_plugin>
 
     <!-- Metadata for Mavic 3E Projector -->
@@ -20,9 +20,9 @@
         <version>0.9.9</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/MavicProjector_0.9.9.zip</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/MavicProjector.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>MavicProjector_0.9.9.zip</file_name>
+        <file_name>MavicProjector.zip</file_name>
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS Target -->
@@ -32,9 +32,9 @@
         <version>1.10</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/qgis_target_vertex_1.10.zip</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_target_vertex.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>qgis_target_vertex_1.10.zip</file_name>
+        <file_name>qgis_target_vertex.zip</file_name>
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS TAB Exporter -->
@@ -44,9 +44,9 @@
         <version>1.02</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/QGISTabExporter_1.0.2.zip</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/ExtractTabExporter.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>QGISTabExporter_1.0.2.zip</file_name>
+        <file_name>ExtractTabExporter.zip</file_name>
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS Natura topology check -->
@@ -56,9 +56,9 @@
         <version>1.05</version>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/natura_registry_check_1.05_isekas versioon.zip</download_url>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/plk_registry_patcher.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>natura_registry_check_1.05_isekas versioon.zip</file_name>
+        <file_name>plk_registry_patcher.zip</file_name>
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS Pivot Dashboard -->
@@ -68,9 +68,10 @@
         <version>0.9.8.5</version>
         <qgis_minimum_version>3.16</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>file:///Z:/Pärandniitude osakond/Kasulik info/Üleminek QGISle/x_LISA/QGIS pluginad/QGIS pivot_0.9.8.5.zip</download_url>
+        <!-- Space encoded as %20 in the URL below -->
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/QGIS%20pivot.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>QGIS pivot_0.9.8.5.zip</file_name>
+        <file_name>QGIS pivot.zip</file_name>
     </pyqgis_plugin>
 
 </plugins>
