@@ -25,52 +25,60 @@
         <file_name>MavicProjector_0.9.9.zip</file_name>
     </pyqgis_plugin>
 
-    <!-- Metadata for QGIS Target[cite: 5] -->
+    <!-- Metadata for QGIS Target -->
     <pyqgis_plugin name="QGIS Target" version="1.10">
         <description>In-place Erase and Erase Outside clipping tool (with Set Target feature)</description>
         <about>Lets user set features as targets and clip them with selected objects (erase/erase outside). Compatible with QGIS 3.x and 4.x. Added disaggregate function as of v1.04 and Fit Target v1.05 (preview).</about>
         <version>1.10</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_target.zip</download_url>
+        <!-- Updated at approx. row 32 -->
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_target_vertex_1.10.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>qgis_target.zip</file_name>
+        <!-- Updated at approx. row 34 -->
+        <file_name>qgis_target_vertex_1.10.zip</file_name>
     </pyqgis_plugin>
 
-    <!-- Metadata for QGIS TAB Exporter[cite: 3] -->
+    <!-- Metadata for QGIS TAB Exporter -->
     <pyqgis_plugin name="QGIS TAB Exporter" version="1.02">
         <description>QGIS shift-free TAB exporter</description>
         <about>Prevents coordinate shifting by enforcing strict bounds and Decimal snapping.</about>
         <version>1.02</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_tab_exporter.zip</download_url>
+        <!-- Updated at approx. row 43 -->
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/QGISTabExporter_1.0.2.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>qgis_tab_exporter.zip</file_name>
+        <!-- Updated at approx. row 45 -->
+        <file_name>QGISTabExporter_1.0.2.zip</file_name>
     </pyqgis_plugin>
 
-    <!-- Metadata for QGIS Natura topology check[cite: 4] -->
+    <!-- Metadata for QGIS Natura topology check -->
     <pyqgis_plugin name="QGIS Natura topology check" version="1.05">
         <description>Compares user registry inputs against EELIS:natura_elupaik WFS layer and runs MapInfo/EELIS style topology checks.</description>
         <about>Compares user registry inputs against EELIS:natura_elupaik WFS layer and runs MapInfo/EELIS style topology checks.</about>
         <version>1.05</version>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_natura_topology_check.zip</download_url>
+        <!-- Updated at approx. row 54 (spaces replaced with %20) -->
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/natura_registry_check_1.05_isekas%20versioon.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>qgis_natura_topology_check.zip</file_name>
+        <!-- Updated at approx. row 56 -->
+        <file_name>natura_registry_check_1.05_isekas versioon.zip</file_name>
     </pyqgis_plugin>
 
-    <!-- Metadata for QGIS Pivot Dashboard[cite: 6] -->
+    <!-- Metadata for QGIS Pivot Dashboard -->
     <pyqgis_plugin name="QGIS Pivot Dashboard" version="0.9.8.5">
         <description>Drag and drop pivot table dashboard for spatial and attribute statistics. Spatial join, geosearch, WFS catalog.</description>
         <about>A flexible BI-style pivot dashboard for QGIS layers.</about>
         <version>0.9.8.5</version>
         <qgis_minimum_version>3.16</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
-        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_pivot_dashboard.zip</download_url>
+        <!-- Updated at approx. row 65 (spaces replaced with %20) -->
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/QGIS%20pivot_0.9.8.5.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>qgis_pivot_dashboard.zip</file_name>
+        <!-- Updated at approx. row 67 -->
+        <file_name>QGIS pivot_0.9.8.5.zip</file_name>
     </pyqgis_plugin>
 
 </plugins>
