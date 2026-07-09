@@ -1,26 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+    <!-- Metadata for EstHub Satiladu viewer -->
     <pyqgis_plugin name="EstHub Satiladu viewer" version="1.2.4">
-        <description>Avab värsked ESTHub Satilao WMS kihid koos navigeerimisvõimalusega. Võimaldab QGIS kaardivaate alusel tehtud päringu põhjal sirvida pilvituid kaardilehti.</description> [cite: 1]
-        <about>Lisab eraldi tööriistariba.</about> [cite: 2]
-        <version>1.2.4</version> [cite: 2]
-        <qgis_minimum_version>3.0</qgis_minimum_version> [cite: 1]
-        <qgis_maximum_version>4.9</qgis_maximum_version> [cite: 1]
+        <description>Avab värsked ESTHub Satilao WMS kihid koos navigeerimisvõimalusega. Võimaldab QGIS kaardivaate alusel tehtud päringu põhjal sirvida pilvituid kaardilehti.</description>
+        <about>Lisab eraldi tööriistariba.</about>
+        <version>1.2.4</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <qgis_maximum_version>4.9</qgis_maximum_version>
         <download_url>https://drive.google.com/uc?export=download&amp;id=15TjLrLDa1CxiSKbSowAEWpLyIjjGwYKS</download_url>
-        <author_name>Urmo Saar</author_name> [cite: 2]
+        <author_name>Urmo Saar</author_name>
         <file_name>EstHub_Satiladu_WMS_1.2.4.zip</file_name>
     </pyqgis_plugin>
 
+    <!-- Metadata for Mavic 3E Projector -->
     <pyqgis_plugin name="Mavic 3E Projector" version="0.9.9">
-        <description>Projects vector layers onto raw DJI 3E/4T photos and draws the camera FOV on the 2D map. Add pins directly onto photos and display them on 2d map.</description> [cite: 3, 4]
-        <about>Reads DJI XMP EXIF data and uses OpenCV to map 3D vector features onto the 2D image plane, and reverse ray-casts the camera footprint.</about> [cite: 5]
-        <version>0.9.9</version> [cite: 5]
-        <qgis_minimum_version>3.10</qgis_minimum_version> [cite: 3]
-        <qgis_maximum_version>4.99</qgis_maximum_version> [cite: 3]
+        <description>Projects vector layers onto raw DJI 3E/4T photos and draws the camera FOV on the 2D map. Add pins directly onto photos and display them on 2d map.</description>
+        <about>Reads DJI XMP EXIF data and uses OpenCV to map 3D vector features onto the 2D image plane, and reverse ray-casts the camera footprint.</about>
+        <version>0.9.9</version>
+        <qgis_minimum_version>3.10</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://drive.google.com/uc?export=download&amp;id=12mEQnLtHIUhBoW1xGOW03usFHHLc3EwI</download_url>
-        <author_name>Urmo Saar</author_name> [cite: 5]
+        <author_name>Urmo Saar</author_name>
         <file_name>MavicProjector_0.9.9.zip</file_name>
+    </pyqgis_plugin>
+
+    <!-- Metadata for QGIS Target[cite: 5] -->
+    <pyqgis_plugin name="QGIS Target" version="1.10">
+        <description>In-place Erase and Erase Outside clipping tool (with Set Target feature)</description>
+        <about>Lets user set features as targets and clip them with selected objects (erase/erase outside). Compatible with QGIS 3.x and 4.x. Added disaggregate function as of v1.04 and Fit Target v1.05 (preview).</about>
+        <version>1.10</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://drive.google.com/uc?export=download&amp;id=1yp-hk-EAzmluSL9h5LAG-ZG7ydXIWDek</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>qgis_target.zip</file_name>
+    </pyqgis_plugin>
+
+    <!-- Metadata for QGIS TAB Exporter[cite: 3] -->
+    <pyqgis_plugin name="QGIS TAB Exporter" version="1.02">
+        <description>QGIS shift-free TAB exporter</description>
+        <about>Prevents coordinate shifting by enforcing strict bounds and Decimal snapping.</about>
+        <version>1.02</version>
+        <qgis_minimum_version>3.10</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://drive.google.com/uc?export=download&amp;id=1kmR-DcdoYbZwsuqKfyj_pabtmt_S2OhR</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>qgis_tab_exporter.zip</file_name>
+    </pyqgis_plugin>
+
+    <!-- Metadata for QGIS Natura topology check[cite: 4] -->
+    <pyqgis_plugin name="QGIS Natura topology check" version="1.05">
+        <description>Compares user registry inputs against EELIS:natura_elupaik WFS layer and runs MapInfo/EELIS style topology checks.</description>
+        <about>Compares user registry inputs against EELIS:natura_elupaik WFS layer and runs MapInfo/EELIS style topology checks.</about>
+        <version>1.05</version>
+        <qgis_minimum_version>3.22</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://drive.google.com/uc?export=download&amp;id=1hxNbNVtuQVu6u2qXM92njK_eJ_40mk0V</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>qgis_natura_topology_check.zip</file_name>
+    </pyqgis_plugin>
+
+    <!-- Metadata for QGIS Pivot Dashboard[cite: 6] -->
+    <pyqgis_plugin name="QGIS Pivot Dashboard" version="0.9.8.5">
+        <description>Drag and drop pivot table dashboard for spatial and attribute statistics. Spatial join, geosearch, WFS catalog.</description>
+        <about>A flexible BI-style pivot dashboard for QGIS layers.</about>
+        <version>0.9.8.5</version>
+        <qgis_minimum_version>3.16</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://drive.google.com/uc?export=download&amp;id=1VL3J7IOU0-4xuWZls-353OSk9Y5Zf6GL</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>qgis_pivot_dashboard.zip</file_name>
     </pyqgis_plugin>
 
 </plugins>
