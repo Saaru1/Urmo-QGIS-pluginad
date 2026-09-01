@@ -2,10 +2,10 @@
 <plugins>
 
     <!-- Metadata for EstHub Satiladu viewer -->
-    <pyqgis_plugin name="EstHub Satiladu viewer" version="1.2.5">
+    <pyqgis_plugin name="EstHub Satiladu viewer" version="1.2.6">
         <description>Avab värsked ESTHub Satilao WMS kihid koos navigeerimisvõimalusega. Võimaldab QGIS kaardivaate alusel tehtud päringu põhjal sirvida pilvituid kaardilehti.</description>
         <about>Lisab eraldi tööriistariba.</about>
-        <version>1.2.5</version>
+        <version>1.2.6</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/SatiladuWMS.zip</download_url>
