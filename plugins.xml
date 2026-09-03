@@ -2,7 +2,7 @@
 <plugins>
 
     <!-- Metadata for MAFotoladu -->
-    <pyqgis_plugin name="MAFotoladu="1.1.0">
+    <pyqgis_plugin name="MAFotoladu" version="1.1.0">
         <description>Click any location on the map canvas to open the corresponding coordinates in Maa- ja Ruumiamet Fotoladu (fotoladu.maaamet.ee). Compatible with QGIS 3 and QGIS 4.</description>
         <about>Mitteametlik MaRu fotolao plugin.</about>
         <version>1.1.0</version>
