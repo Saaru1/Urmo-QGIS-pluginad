@@ -74,10 +74,10 @@
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS Pivot Dashboard -->
-    <pyqgis_plugin name="QGIS Pivot Dashboard" version="0.9.8.6">
+    <pyqgis_plugin name="QGIS Pivot Dashboard" version="0.9.8.7">
         <description>Drag and drop pivot table dashboard for spatial and attribute statistics. Spatial join, geosearch, WFS catalog.</description>
         <about>A flexible BI-style pivot dashboard for QGIS layers.</about>
-        <version>0.9.8.6</version>
+        <version>0.9.8.7</version>
         <qgis_minimum_version>3.16</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <!-- Space encoded as %20 in the URL below -->
