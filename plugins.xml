@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+    <!-- Metadata for EST address search -->
+    <pyqgis_plugin name="estonian-address-search" version="1.0.2">
+        <description>Tööriist võimaldab otsida Eesti ametlikke aadresse ning katastritunnuseid. Põhineb In-ADS API-l</description>
+        <about>Mitteametlik PyQt6 tugi - Urmo</about>
+        <version>1.0.20</version>
+        <qgis_minimum_version>3.40</qgis_minimum_version>
+        <qgis_maximum_version>4.9</qgis_maximum_version>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/estonian-address-search.zip</download_url>
+        <author_name>MaRu</author_name>
+        <file_name>estonian-address-search.zip</file_name>
+    </pyqgis_plugin>
+    
     <!-- Metadata for MAFotoladu -->
     <pyqgis_plugin name="MAFotoladu" version="1.1.0">
         <description>Click any location on the map canvas to open the corresponding coordinates in Maa- ja Ruumiamet Fotoladu (fotoladu.maaamet.ee). Compatible with QGIS 3 and QGIS 4.</description>
