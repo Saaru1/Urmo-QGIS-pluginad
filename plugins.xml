@@ -26,10 +26,10 @@
     </pyqgis_plugin>
 
     <!-- Metadata for EstHub Satiladu viewer -->
-    <pyqgis_plugin name="EstHub Satiladu viewer" version="1.3.2">
+    <pyqgis_plugin name="EstHub Satiladu viewer" version="1.3.3">
         <description>QGIS pistikprogramm Sentinel-2 ja Landsat-8 satelliidipiltide sirvimiseks ja võrdlemiseks. Programm toimib läbi ESTHub Satiladu teenuse. Andmete algallikaks on Copernicus programm.</description>
         <about>Lisab eraldi tööriistariba.</about>
-        <version>1.3.2</version>
+        <version>1.3.3</version>
         <qgis_minimum_version>3.44</qgis_minimum_version>
         <qgis_maximum_version>4.2</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/SatiladuWMS.zip</download_url>
