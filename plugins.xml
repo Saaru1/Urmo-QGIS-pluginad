@@ -2,10 +2,10 @@
 <plugins>
 
     <!-- Metadata for AutoZoom -->
-    <pyqgis_plugin name="AutoZoom on selection" version="0.2.0">
+    <pyqgis_plugin name="AutoZoom on selection" version="0.3.1">
         <description>Automatically zoom the map canvas to features when you select them in any layer's attribute table. Toggleable.</description>
         <about>Automatically zoom the map canvas to features when you select them in any layer's attribute table (or canvas). Works for any vector layer and can be toggled on/off.</about>
-        <version>0.2.0</version>
+        <version>0.3.1</version>
         <qgis_minimum_version>3.22</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/AutoZoomOnSelection.zip</download_url>
