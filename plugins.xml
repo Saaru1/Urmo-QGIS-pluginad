@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+    <!-- Metadata for GeoKataloog -->
+    <pyqgis_plugin name="GeoKataloog" version="1.9.1">
+        <description>Eesti ruumiandmeteenuste otsing, kihtide ja geomeetriate eelvaade ning QGIS-i ühenduste profiilihaldur.</description>
+        <about>Eesti ja rahvusvaheliste ruumiandmeteenuste (WFS, WMS, WCS, WMTS jne) kataloog, kihtide ja segageomeetriate testija ning profiilihaldur. Võimaldab otsida ja avada kaardikihte, lahutada segageomeetriaid punktideks, joonteks ja polügoonideks ning hallata ja sünkroonida QGIS-i ühenduste profiile.</about>
+        <version>1.9.1</version>
+        <qgis_minimum_version>3.28</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/GeoKataloog.zip</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>GeoKataloog.zip</file_name>
+    </pyqgis_plugin>
+    
     <!-- Metadata for AutoZoom -->
     <pyqgis_plugin name="AutoZoom on selection" version="0.3.2">
         <description>Automatically zoom the map canvas to features when you select them in any layer's attribute table. Toggleable.</description>
