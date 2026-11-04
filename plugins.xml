@@ -10,7 +10,7 @@
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/GeoKataloog.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>GeoKataloog.zip</file_name>
+        <file_name>GeoKataloog</file_name>
     </pyqgis_plugin>
     
     <!-- Metadata for AutoZoom -->
