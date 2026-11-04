@@ -2,10 +2,10 @@
 <plugins>
 
     <!-- Metadata for GeoKataloog -->
-    <pyqgis_plugin name="GeoKataloog" version="1.9.2">
+    <pyqgis_plugin name="GeoKataloog" version="1.9.4">
         <description>Eesti ruumiandmeteenuste otsing, kihtide ja geomeetriate eelvaade ning QGIS-i ühenduste profiilihaldur.</description>
         <about>Eesti ja rahvusvaheliste ruumiandmeteenuste (WFS, WMS, WCS, WMTS jne) kataloog, kihtide ja segageomeetriate testija ning profiilihaldur. Võimaldab otsida ja avada kaardikihte, lahutada segageomeetriaid punktideks, joonteks ja polügoonideks ning hallata ja sünkroonida QGIS-i ühenduste profiile.</about>
-        <version>1.9.2</version>
+        <version>1.9.4</version>
         <qgis_minimum_version>3.28</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/GeoKataloog.zip</download_url>
