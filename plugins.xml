@@ -14,10 +14,10 @@
     </pyqgis_plugin>
     
     <!-- Metadata for EST address search -->
-    <pyqgis_plugin name="estonian-address-search" version="1.0.2">
+    <pyqgis_plugin name="estonian-address-search" version="1.0.1.1">
         <description>Tööriist võimaldab otsida Eesti ametlikke aadresse ning katastritunnuseid. Põhineb In-ADS API-l</description>
         <about>Mitteametlik PyQt6 tugi - Urmo</about>
-        <version>1.0.20</version>
+        <version>1.0.1.1</version>
         <qgis_minimum_version>3.40</qgis_minimum_version>
         <qgis_maximum_version>4.9</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/estonian-address-search.zip</download_url>
