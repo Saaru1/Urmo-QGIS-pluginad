@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+
+    <!-- Metadata for Overlap Toolkit -->
+    <pyqgis_plugin name="Overlap Toolkit" version="1.1.0">
+        <description>Kiire polügoonide ülekatete ja koondstatistika tööriist / Fast polygon overlap and aggregate statistics tool</description>
+        <about>Kiire ja mugav tööriist polügoonide tavaliste ja grupeeritud ülekatete arvutamiseks, koondstatistika tegemiseks ja tulemuste automaatseks kujundamiseks. Sisaldab otsefailide laadimist ja Eesti WFS-kataloogi tuge (EELIS, Kataster, PRIA, ETAK). Fast tool for polygon overlap calculations, grouped overlap analysis, aggregate statistics, and automatic layer styling. Features direct PC file loading and Estonian WFS service catalog integration (EELIS, Cadastre, PRIA, ETAK).</about>
+        <version>1.1.0</version>
+        <qgis_minimum_version>3.4</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/overlap_toolkit.zip</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>overlap_toolkit</file_name>
+    </pyqgis_plugin>
+    
     <!-- Metadata for GeoKataloog -->
     <pyqgis_plugin name="GeoKataloog" version="1.9.4">
         <description>Eesti ruumiandmeteenuste otsing, kihtide ja geomeetriate eelvaade ning QGIS-i ühenduste profiilihaldur.</description>
