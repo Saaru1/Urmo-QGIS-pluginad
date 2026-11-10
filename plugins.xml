@@ -10,7 +10,7 @@
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/MaRu_ALS.zip</download_url>
         <author_name>Urmo Saar</author_name>
-        <file_name>MaRu_ALS.zip</file_name>
+        <file_name>MaRu_ALS</file_name>
     </pyqgis_plugin>
     
     <!-- Metadata for Overlap Toolkit -->
