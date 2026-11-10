@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+        <!-- Metadata for Natura Topo Kontroll -->
+<pyqgis_plugin name="Natura Topo Kontroll" version="1.7.6">
+    <description>MapInfo Check Regions ja EELIS geomeetriate kontrolli loogikat jäljendav topoloogia, WFS ja Exceli ID-kontrolli tööriist.</description>
+    <about>Täiustatud WFS plokk-päringute, veakäsitluse ja MapInfo topoloogia toega versioon.</about>
+    <version>1.7.6</version>
+    <qgis_minimum_version>3.22</qgis_minimum_version>
+    <qgis_maximum_version>4.99</qgis_maximum_version>
+    <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/natura_topo_kontroll.zip</download_url>
+    <author_name>Urmo Saar</author_name>
+    <homepage>https://github.com/keskkonnaamet/natura_topo_kontroll</homepage>
+    <tracker>https://github.com/keskkonnaamet/natura_topo_kontroll/issues</tracker>
+    <repository>https://github.com/keskkonnaamet/natura_topo_kontroll</repository>
+    <tags>topology,mapinfo,wfs,natura,validation,excel</tags>
+    <file_name>natura_topo_kontroll.zip</file_name>
+</pyqgis_plugin>
+        
         <!-- Metadata for MaRu ALS 3D -->
     <pyqgis_plugin name="MaRu ALS 3D" version="1.4.7">
         <description>Maa- ja Ruumiamet 3D aerolaserskaneerimise (ALS) LAZ kõrguspunktide allalaadimine ja vaatamine noole või ristkülikuga valiku abil./Download and visualize Estonian Land and Spatial Board (Maa- ja Ruumiamet) 3D airborne LiDAR (ALS) LAZ point clouds by dragging an arrow or rectangle.</description>
