@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
+        <!-- Metadata for GeoDash -->
+    <pyqgis_plugin name="GeoDash Andmelaud" version="1.7.1">
+        <description>Interaktiivsed BI töölauad QGIS-is (kaardid, graafikud, tabelid, filtrid, avaldised) koos HTML-ekspordiga. | Interactive BI dashboards in QGIS (maps, charts, tables, filters, expressions) with standalone HTML export.</description>
+        <about>Loo otse QGIS-is interaktiivseid kaardi- ja andmeanalüütika töölaudu (WFS/WMS, Excel, ruumilised risttabelid, avaldised) ning ekspordi need ühe iseseisva HTML-failina. | Create interactive map and data analytics dashboards directly in QGIS (WFS/WMS, Excel, spatial pivots, expressions) and export them as a standalone HTML file.</about>
+        <version>1.7.1</version>
+        <qgis_minimum_version>3.44</qgis_minimum_version>
+        <qgis_maximum_version>4.99</qgis_maximum_version>
+        <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_team_dashboard.zip</download_url>
+        <author_name>Urmo Saar</author_name>
+        <file_name>qgis_team_dashboard.zip</file_name>
+    </pyqgis_plugin>
+        
         <!-- Metadata for Natura Topo Kontroll -->
 <pyqgis_plugin name="Natura Topo Kontroll" version="1.7.6">
     <description>MapInfo Check Regions ja EELIS geomeetriate kontrolli loogikat jäljendav topoloogia, WFS ja Exceli ID-kontrolli tööriist.</description>
