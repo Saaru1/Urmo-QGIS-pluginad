@@ -126,10 +126,10 @@
     </pyqgis_plugin>
 
     <!-- Metadata for QGIS Target -->
-    <pyqgis_plugin name="QGIS Target" version="1.10">
+    <pyqgis_plugin name="QGIS Target" version="1.13">
         <description>In-place Erase and Erase Outside clipping tool (with Set Target feature)</description>
         <about>Lets user set features as targets and clip them with selected objects (erase/erase outside). Compatible with QGIS 3.x and 4.x. Added disaggregate function as of v1.04 and Fit Target v1.05 (preview).</about>
-        <version>1.10</version>
+        <version>1.13</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/qgis_target_vertex.zip</download_url>
