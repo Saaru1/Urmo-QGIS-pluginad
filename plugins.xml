@@ -114,10 +114,10 @@
     </pyqgis_plugin>
 
     <!-- Metadata for Mavic 3E Projector -->
-    <pyqgis_plugin name="Mavic 3E Projector" version="1.2.2">
+    <pyqgis_plugin name="Mavic 3E Projector" version="1.3.1">
         <description>Projects vector layers onto raw DJI 3E/4T photos and draws the camera FOV on the 2D map. Add pins directly onto photos and display them on 2d map.</description>
         <about>Reads DJI XMP EXIF data and uses OpenCV to map 3D vector features onto the 2D image plane, and reverse ray-casts the camera footprint.</about>
-        <version>1.2.2</version>
+        <version>1.3.1</version>
         <qgis_minimum_version>3.10</qgis_minimum_version>
         <qgis_maximum_version>4.99</qgis_maximum_version>
         <download_url>https://saaru1.github.io/Urmo-QGIS-pluginad/MavicProjector.zip</download_url>
